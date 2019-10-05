@@ -104,7 +104,7 @@ def changing_alan
         }
      }
 
-programmer_hash[:alan_kay][:known_for]= "alans_new_info = GUI"
+programmer_hash[:alan_kay][:known_for]= ["alans_new_info = GUI"]
 return programmer_hash
 
 end
